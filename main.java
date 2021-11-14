@@ -1,4 +1,4 @@
-package tiendaDeLibros;
+package creacionDeProductos;
 
 
 public class Main {
