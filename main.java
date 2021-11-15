@@ -4,7 +4,7 @@ package creacionDeProductos;
 public class Main {
 
 	public static void main(String[] args) {
-		producto  CosasLindas = new producto("Programacion con java",1520,899,true);
+		producto  Remera = new producto("nike",0234,500,true);
 		
 		System.out.println(CosasLindas.getNombre());
 		System.out.println(CosasLindas.getId());
